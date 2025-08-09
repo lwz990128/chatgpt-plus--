@@ -14,28 +14,28 @@ WildCard 野卡停运后，国内用户订阅 ChatGPT Plus 的路径变得有限
 
 整个充值流程大概如下：
 
-（1）需要先购买对应的卡密，然后返回点击【开始充值】
+## （1）需要先购买对应的卡密，然后返回点击【开始充值】</a>
 
 ChatGPT Plus购买卡密地址：<a href="https://ka.beixing.xyz/">
 
-（2）点击【开始充值】之后，把刚刚买到的卡密粘贴进来验证。
+## （2）点击【开始充值】之后，把刚刚买到的卡密粘贴进来验证。</a>
 
 ChatGPT Plus充值入口：<a href="https://gpt.beixing.xyz/single">
 
-（3）点击登陆GPT
+## （3）点击登陆GPT</a>
 
 ![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-3.png)
 
-（4）验证充值秘钥令牌Token
+## （4）验证充值秘钥令牌Token</a>
 
 ![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-4.png)
 
-（5）点击验证卡密开始充值即可。充值成功之后，大概1-2分钟后，回到 ChatGPT 页面查看，就已经是Plus状态啦 。注意，如果会员还没到期，会充值失败
+## （5）点击验证卡密开始充值即可。充值成功之后，大概1-2分钟后，回到 ChatGPT 页面查看，就已经是Plus状态啦 。注意，如果会员还没到期，会充值失败</a>
 
 ![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-2.png)
 
 
-以上所示即可完成充值，可以正常使用Plus会员的所有功能啦！！！大家如果有遇到不懂的，可以直接加我微信：BXGH5142，备注：120充值 。
+## 以上所示即可完成充值，可以正常使用Plus会员的所有功能啦！！！大家如果有遇到不懂的，可以直接加我微信：BXGH5142，备注：120充值 </a>
 
 ![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-5.png)
 
