@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2025年8月7日</p>
 
-![最新ChatGPT Plus代充值教程：2025年最可靠的ChatGPT Plus代充值平台推荐！]([https://raw.githubusercontent.com/anyofai/chatgpt-plus-recharge/refs/heads/main/image/chatgpt-plus-recharge.png](https://www.beixing.xyz/wp-content/uploads/2025/08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250809223523-300x136.png))
+![最新ChatGPT Plus代充值教程：2025年最可靠的ChatGPT Plus代充值平台推荐！]([https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250809223523-300x136.png))
 
 WildCard 野卡停运后，国内用户订阅 ChatGPT Plus 的路径变得有限。由于目前还没有出现能与野卡媲美的虚拟信用卡方案，想继续使用 ChatGPT Plus 的朋友，最稳妥的选择就是“代充值”。
 
