@@ -32,9 +32,11 @@ ChatGPT Plus充值入口：<a href="https://gpt.beixing.xyz/single">
 
 （5）点击验证卡密开始充值即可。充值成功之后，大概1-2分钟后，回到 ChatGPT 页面查看，就已经是Plus状态啦 。注意，如果会员还没到期，会充值失败
 
-![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-5.png)
+![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-2.png)
 
 
 以上所示即可完成充值，可以正常使用Plus会员的所有功能啦！！！大家如果有遇到不懂的，可以直接加我微信：BXGH5142，备注：120充值 。
 
-![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-2.png)
+![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-5.png)
+
+
