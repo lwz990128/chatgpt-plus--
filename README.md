@@ -2,7 +2,8 @@
 
 <p align="center">最近更新于：2025年8月7日</p>
 
-![image]([https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://raw.githubusercontent.com/anyofai/chatgpt-plus-recharge/refs/heads/main/image/chatgpt-plus-recharge.png))
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
+
 
 WildCard 野卡停运后，国内用户订阅 ChatGPT Plus 的路径变得有限。由于目前还没有出现能与野卡媲美的虚拟信用卡方案，想继续使用 ChatGPT Plus 的朋友，最稳妥的选择就是“代充值”。
 
