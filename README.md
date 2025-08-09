@@ -24,7 +24,7 @@ ChatGPT Plus充值入口：<a href="https://gpt.beixing.xyz/single">
 
 （3）点击登陆GPT
 
-![最新ChatGPT Plus代充值教程：2025年最可靠的ChatGPT Plus代充值平台推荐！]([https://www.beixing.xyz/wp-content/uploads/2025/08/image-2-300x157.png))
+![image](https://github.com/lwz990128/chatgpt-plus-Recharge-system/blob/main/img-folder/%E5%9B%BE%E7%89%87/image-2-300x157.png)
 
 （4）验证充值秘钥令牌Token
 
