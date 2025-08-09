@@ -12,15 +12,15 @@ WildCard 野卡停运后，国内用户订阅 ChatGPT Plus 的路径变得有限
 
 ## 2025年国内ChatGPT Plus代充值平台首选：<a href="https://gpt.beixing.xyz/single">北星ChatGPT账号充值系统</a>
 
-整个充值流程大概如下：
+**整个充值流程大概如下：**
 
 ## （1）需要先购买对应的卡密，然后返回点击【开始充值】
 
-ChatGPT Plus购买卡密地址：<a href="https://ka.beixing.xyz/">
+**ChatGPT Plus购买卡密地址：<a href="https://ka.beixing.xyz/">**
 
 ## （2）点击【开始充值】之后，把刚刚买到的卡密粘贴进来验证。
 
-ChatGPT Plus充值入口：<a href="https://gpt.beixing.xyz/single">
+**ChatGPT Plus充值入口：<a href="https://gpt.beixing.xyz/single">**
 
 ## （3）点击登陆GPT
 
